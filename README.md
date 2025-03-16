@@ -9,7 +9,7 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillaMarchezini&layout=compact&langs_count=7&theme=Cute-Pink-Light-Theme"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillaMarchezini&layout=compact&langs_count=7&theme=Pink-Cat-Boo-Theme"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CamillaMarchezini&show_icons=true&theme=Pink-Cat-Boo&include_all_commits=true&count_private=true"/>
 </div>
 
