@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdng0NG1kcjNnOHlpcWJhc2thcGI4YjQ4dXJ4OWttaWtoZzY3Y3djZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FKk1LJlP0522kl77bk/giphy.gif"  />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZocGY0OXkyeXF3YXVtbHQwZmg1cTlnZWxzczdmczltZ3o4ZjNjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FKk1LJlP0522kl77bk/giphy.gif" width="200" />
 </div>
 
 <div align="center">
@@ -13,8 +13,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CamillaMarchezini.CamillaMarchezini&"/>
 </div>
 
+
 <h1 align="center"> Hello! Welcome to my Github profile.</h1>
-<h3 align="center">👩‍💻 About Me </h3> 
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTF1aDN4bG51dTIyNzZqenh1OTFyMjE3cXE3bnYzcGowbDdwZDBxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sL2fDmIKa9h9hQ90mW/giphy.gif" width="80"/> 
+</div>
+
+<h3 align="center">🖥️ About Me </h3> 
 
 <p align="center">I'm Camilla from Brazil <br><br>
 
